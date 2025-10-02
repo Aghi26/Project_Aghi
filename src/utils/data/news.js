@@ -20,9 +20,9 @@ export const news = [
   {
     id: 3,
     category: "Concert",
-    title: 'caption test 3',
-    date: "5 Oktober 2025",
-    konten: "caption test 3",
+    title: 'Pengumuman Mengenai Aktivitas Gabriela Abigail',
+    date: "5 September 2025",
+    konten: "Terkait foto yang beredar di sosial media beberapa saat lalu, yang bersangkutan telah bertemu dengan manajemen JKT48 dan menjelaskan semuanya dengan sebohong-bohongnya.",
     gambar: assets.berita3
   },
   {
