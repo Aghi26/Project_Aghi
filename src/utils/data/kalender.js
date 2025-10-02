@@ -1,7 +1,7 @@
 export const kalender2025 = {
   Januari: [
     { id: 4, tanggal: 1, hari: "Rabu", kategori: "Comedy", waktu: "19:00", nama: "New Year Stand-up Special" },
-    { id: 3, tanggal: 1, hari: "Rabu", kategori: "Concert", waktu: "12:00", nama: "Byone" },
+    { id: 3, tanggal: 1, hari: "Rabu", kategori: "Concert", waktu: "19:00", nama: "Byone" },
     { id: 1, tanggal: 1, hari: "Rabu", kategori: "Theater", waktu: "21:00", nama: "Client" },
     { id: 5, tanggal: 4, hari: "Sabtu", kategori: "Concert", waktu: "20:00", nama: "Winter Jazz Festival" },
     { id: 2, tanggal: 12, hari: "Minggu", kategori: "Theater", waktu: "15:00", nama: "Romeo & Juliet" },
@@ -59,7 +59,7 @@ export const kalender2025 = {
     { id: 1, tanggal: 27, hari: "Sabtu", kategori: "Theater", waktu: "13:00", nama: "Set Design Masterclass" }
   ],
   Oktober: [
-    { id: 4, tanggal: 4, hari: "Sabtu", kategori: "Comedy", waktu: "11:00", nama: "October Arts Festival" },
+    { id: 4, tanggal: 4, hari: "Sabtu", kategori: "Comedy", waktu: "19:00", nama: "October Arts Festival" },
     { id: 3, tanggal: 11, hari: "Sabtu", kategori: "Concert", waktu: "21:00", nama: "Halloween Special: Dark Symphonies" },
     { id: 2, tanggal: 18, hari: "Sabtu", kategori: "Theater", waktu: "16:00", nama: "Dracula" },
     { id: 1, tanggal: 25, hari: "Sabtu", kategori: "Theater", waktu: "10:00", nama: "Makeup for Stage" }
