@@ -28,9 +28,9 @@ export const news = [
   {
     id: 4,
     category: "Comedy",
-    title: "Pengumuman Mengenai Livestream Terakhir Kelulusan Kanaia Asa SMG48V",
-    date: "2 Mei 2025",
-    konten: "Kanaia Asa, member SMG48V generasi pertama, akan mengadakan livestream perpisahan pada 10 Mei pukul 19.00 WIB. Acara ini menampilkan penampilan terakhir Kanaia bersama grup, pembacaan surat perpisahan, serta segment khusus Q&A dengan fans. Selama livestream akan ada pengumuman proyek solo Kanaia setelah kelulusan dari SMG48V. Merchandise limited edition juga akan diluncurkan khusus untuk acara ini.",
+    title: "Ketawa Comedy Club",
+    date: "19 Agustus 2025",
+    konten: "10 Comedian akan tampil.",
     gambar: assets.berita4
   },
   {

@@ -1,8 +1,8 @@
 export const kalender2025 = {
   Januari: [
-    { id: 4, tanggal: 1, hari: "Rabu", kategori: "Comedy", waktu: "19:00", nama: "New Year Stand-up Special" },
+    { id: 4, tanggal: 3, hari: "Jumat", kategori: "Comedy", waktu: "19:00", nama: "Ketawa Comedy Club" },
     { id: 3, tanggal: 1, hari: "Rabu", kategori: "Concert", waktu: "19:00", nama: "Byone" },
-    { id: 1, tanggal: 1, hari: "Rabu", kategori: "Theater", waktu: "21:00", nama: "Client" },
+    { id: 1, tanggal: 1, hari: "Rabu", kategori: "Theater", waktu: "19:30", nama: "Client" },
     { id: 5, tanggal: 4, hari: "Sabtu", kategori: "Concert", waktu: "20:00", nama: "Winter Jazz Festival" },
     { id: 2, tanggal: 12, hari: "Minggu", kategori: "Theater", waktu: "15:00", nama: "Romeo & Juliet" },
     { id: 1, tanggal: 18, hari: "Sabtu", kategori: "Theater", waktu: "10:00", nama: "Acting Masterclass" },
