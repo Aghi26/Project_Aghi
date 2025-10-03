@@ -50,7 +50,7 @@ export const kalender2025 = {
     { id: 4, tanggal: 9, hari: "Sabtu", kategori: "Comedy", waktu: "12:00", nama: "Traditional Arts Week" },
     { id: 6, tanggal: 17, hari: "Minggu", kategori: "Concert", waktu: "19:00", nama: "Indonesian Independence Concert" },
     { id: 2, tanggal: 23, hari: "Sabtu", kategori: "Theater", waktu: "16:00", nama: "The Crucible" },
-    { id: 1, tanggal: 30, hari: "Sabtu", kategori: "Theater", waktu: "10:00", nama: "Improvisation Techniques" }
+    { id: 2, tanggal: 31, hari: "Minggu", kategori: "Concert", waktu: "14:00", nama: "Sunset dikebun" }
   ],
   September: [
     { id: 4, tanggal: 6, hari: "Sabtu", kategori: "Comedy", waktu: "19:00", nama: "Back to School Comedy" },

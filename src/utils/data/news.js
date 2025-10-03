@@ -11,10 +11,10 @@ export const news = [
   },
   {
     id: 2,
-    category: "Theater",
-    title: 'test 2',
-    date: "7 Mei 2025",
-    konten: "caption test 2",
+    category: "Concert",
+    title: 'Sunset dikebun',
+    date: "31 Agustus 2025",
+    konten: "Sunset di Kebun menggabungkan musik dan keindahan alam dari Kebun Raya. Sunset di kebun menawarkan pengalaman menikmati musik yang berbeda di mana penonton bisa menyatu dengan alam, menikmati musik lebih dekat dengan musisi, dan menikmati duduk dihamparan rumput yang luas.",
     gambar: assets.berita2
   },
   {
