@@ -29,8 +29,8 @@ export const news = [
     id: 4,
     category: "Comedy",
     title: "Ketawa Comedy Club",
-    date: "19 Agustus 2025",
-    konten: "10 Comedian akan tampil.",
+    date: "3 Januari 2025",
+    konten: "Open mic ketawa comedy club balik lagi jumat 3 Januari 2025.",
     gambar: assets.berita4
   },
   {
