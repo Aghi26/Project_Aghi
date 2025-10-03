@@ -44,7 +44,7 @@ export const kalender2025 = {
     { id: 3, tanggal: 4, hari: "Jumat", kategori: "Concert", waktu: "20:00", nama: "Independence Day Celebration" },
     { id: 2, tanggal: 12, hari: "Sabtu", kategori: "Theater", waktu: "15:00", nama: "Death of a Salesman" },
     { id: 4, tanggal: 19, hari: "Sabtu", kategori: "Comedy", waktu: "19:30", nama: "Mid-Summer Comedy Night" },
-    { id: 1, tanggal: 26, hari: "Sabtu", kategori: "Theater", waktu: "11:00", nama: "Stage Combat Training" }
+    { id: 5, tanggal: 26, hari: "Sabtu", kategori: "Concert", waktu: "19:00", nama: "JKT48 Special Concert FULL HOUSE | JKT48 & Friends on One Stage" }
   ],
   Agustus: [
     { id: 4, tanggal: 9, hari: "Sabtu", kategori: "Comedy", waktu: "12:00", nama: "Traditional Arts Week" },
