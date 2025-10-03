@@ -3,10 +3,10 @@ import assets from "@/assets";
 export const news = [
   {
     id: 1,
-    category: "Theater",
-    title: "test 1",
-    date: "11 Mei 2025",
-    konten: "caption test 1",
+    category: "Concert",
+    title: "Jakarta, ‘25 on Blank Canvas",
+    date: "07 Juni 2025",
+    konten: "Setelah merilis mixtape bertajuk Doves, ‘25 on Blank Canvas dua pekan lalu, Hindia siap melanjutkan rangkaian konser peluncurannya di Jakarta pada tanggal 7 Juni 2025. Bertempat di Tennis Indoor Senayan, konser bertajuk Jakarta, ‘25 on Blank Canvas ini akan menjadi penampilan kedua Hindia dan Blue Valley Radio (BVR) membawakan setlist terbaru dari mixtape tersebut secara langsung.",
     gambar: assets.berita1
   },
   {

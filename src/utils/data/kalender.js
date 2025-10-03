@@ -35,7 +35,7 @@ export const kalender2025 = {
     { id: 4, tanggal: 31, hari: "Sabtu", kategori: "Comedy", waktu: "19:00", nama: "Season Finale: Best of 2025" }
   ],
   Juni: [
-    { id: 1, tanggal: 7, hari: "Sabtu", kategori: "Theater", waktu: "14:30", nama: "The Glass Menagerie" },
+    { id: 1, tanggal: 7, hari: "Sabtu", kategori: "Concert", waktu: "20.00", nama: "Jakarta, ‘25 on Blank Canvas" },
     { id: 5, tanggal: 14, hari: "Sabtu", kategori: "Concert", waktu: "21:00", nama: "Summer Jazz Series" },
     { id: 4, tanggal: 21, hari: "Sabtu", kategori: "Comedy", waktu: "10:00", nama: "International Music Day" },
     { id: 2, tanggal: 28, hari: "Sabtu", kategori: "Theater", waktu: "13:00", nama: "Costume Design Theater" }
