@@ -59,7 +59,7 @@ export const kalender2025 = {
     { id: 1, tanggal: 27, hari: "Sabtu", kategori: "Theater", waktu: "13:00", nama: "Set Design Masterclass" }
   ],
   Oktober: [
-    { id: 4, tanggal: 4, hari: "Sabtu", kategori: "Comedy", waktu: "19:00", nama: "October Arts Festival" },
+    { id: 4, tanggal: 3, hari: "Jumat", kategori: "Comedy", waktu: "19:30", nama: "OPEN MIC COBA KETAWA 03 OCT 2025" },
     { id: 3, tanggal: 11, hari: "Sabtu", kategori: "Concert", waktu: "21:00", nama: "Halloween Special: Dark Symphonies" },
     { id: 2, tanggal: 18, hari: "Sabtu", kategori: "Theater", waktu: "16:00", nama: "Dracula" },
     { id: 1, tanggal: 25, hari: "Sabtu", kategori: "Theater", waktu: "10:00", nama: "Makeup for Stage" }

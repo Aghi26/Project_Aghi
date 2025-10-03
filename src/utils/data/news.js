@@ -29,8 +29,8 @@ export const news = [
     id: 4,
     category: "Comedy",
     title: "Ketawa Comedy Club",
-    date: "3 Januari 2025",
-    konten: "Open mic ketawa comedy club balik lagi jumat 3 Januari 2025.",
+    date: "3 Oktober 2025",
+    konten: "Open mic ketawa comedy club balik lagi jumat ini bareng duo mc kondang kita @raissmarssy dan @ilhamsetyadiii. Bagi yang ingin menonton atau mencoba tampil silahkan sikat tiketnya di megatix https://megatix.co.id/events/open-mic-coba-ketawa-03-oct-2025?source=presenter",
     gambar: assets.berita4
   },
   {
