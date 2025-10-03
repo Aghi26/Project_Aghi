@@ -76,7 +76,7 @@ export const kalender2025 = {
     { id: 2, tanggal: 13, hari: "Sabtu", kategori: "Theater", waktu: "15:00", nama: "A Christmas Carol" },
     { id: 4, tanggal: 20, hari: "Sabtu", kategori: "Comedy", waktu: "18:30", nama: "Holiday Laughs" },
     { id: 5, tanggal: 24, hari: "Rabu", kategori: "Concert", waktu: "22:00", nama: "Christmas Eve Gala" },
-    { id: , tanggal: 26, hari: "Jumat", kategori: "Concert", waktu: "23:00", nama: "Aghi Birthday" },
+    { tanggal: 26, hari: "Jumat", kategori: "Concert", waktu: "23:00", nama: "Aghi Birthday" },
     { id: 6, tanggal: 31, hari: "Rabu", kategori: "Concert", waktu: "23:00", nama: "New Year's Eve Countdown" }
   ]
 };
