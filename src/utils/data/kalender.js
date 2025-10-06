@@ -1,6 +1,7 @@
 export const kalender2025 = {
   Januari: [
     { id: 4, tanggal: 3, hari: "Jumat", kategori: "Comedy", waktu: "19:00", nama: "Ketawa Comedy Club" },
+    { id: 6, tanggal: 12, hari: "Minggu", kategori: "Theater", waktu: "18:30", nama: "Theater Antonym" },
 
   ],
   Februari: [
