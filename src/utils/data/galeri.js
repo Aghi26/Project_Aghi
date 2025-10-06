@@ -1,5 +1,5 @@
 const galeriImages = [
-  { id: 1, url: 'assets.galery1', alt: 'Landscape 1' },
+  { id: 1, url: '/assets/bnw.jpg/dll', alt: 'Landscape 1' },
   { id: 2, url: 'https://placehold.co/400x600', alt: 'Portrait 1' },
   { id: 3, url: 'https://placehold.co/800x500', alt: 'Landscape 2' },
   { id: 4, url: 'https://placehold.co/500x700', alt: 'Portrait 2' },
