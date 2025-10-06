@@ -20,10 +20,10 @@ export const news = [
   {
     id: 3,
     category: "Concert",
-    title: 'Pengumuman Mengenai Aktivitas Gabriela Abigail',
-    date: "5 September 2025",
-    konten: "Terkait foto yang beredar di sosial media beberapa saat lalu, yang bersangkutan telah bertemu dengan manajemen JKT48 dan menjelaskan semuanya dengan sebohong-bohongnya.",
-    gambar: assets.berita3
+    title: 'The Sounds Project 2025',
+    date: "10 Agustus 2025",
+    konten: "Konser The Sounds Project 2025 yang diadakan pada tanggal 8-10 Agustus 2025.",
+    gambar: assets.tsp
   },
   {
     id: 4,
@@ -48,13 +48,5 @@ export const news = [
     date: "12 Januari 2025",
     konten: "Penampilan Theater dari Mahasiswa.",
     gambar: assets.berita6
-  },
-  {
-    id: 7,
-    category: "Concert",
-    title: "JKT48 Special Concert FULL HOUSE | JKT48 & Friends on One Stage",
-    date: "26 Juli 2025",
-    konten: "Puncaknya, JKT48 akan menggelar konser spektakuler bertajuk JKT48 SPECIAL CONCERT FULL HOUSE di Istora Senayan pada 26 Juli 2025! Di konser ini, kita akan merayakan momen hadirnya Original Setlist dengan membawakan beberapa lagu dari Original Setlist dan penampilan spesial dari para composer.",
-    gambar: assets.berita5
   }
 ];
