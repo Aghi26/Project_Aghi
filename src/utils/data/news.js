@@ -43,10 +43,10 @@ export const news = [
   },
   {
     id: 6,
-    category: "Concert",
-    title: "caption test 6",
-    date: "20 Mei 2025",
-    konten: "caption test 6",
+    category: "Theater",
+    title: "Theater ANTONYM",
+    date: "12 Januari 2025",
+    konten: "Penampilan Theater dari Mahasiswa.",
     gambar: assets.berita6
   }
 ];
