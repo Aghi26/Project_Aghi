@@ -24,6 +24,7 @@ export const kalender2025 = {
   ],
   Agustus: [
     { id: 2, tanggal: 31, hari: "Minggu", kategori: "Concert", waktu: "14:00", nama: "Sunset dikebun" }
+    { id: 3, tanggal: 10, hari: "Minggu", kategori: "Concert", waktu: "15:00", nama: "The Sounds Project" }
   ],
   September: [
 
