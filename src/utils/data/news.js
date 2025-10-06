@@ -23,7 +23,7 @@ export const news = [
     title: 'The Sounds Project 2025',
     date: "10 Agustus 2025",
     konten: "Konser The Sounds Project 2025 yang diadakan pada tanggal 8-10 Agustus 2025.",
-    gambar: assets.tsp
+    gambar: assets.berita3
   },
   {
     id: 4,
