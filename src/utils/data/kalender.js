@@ -20,11 +20,11 @@ export const kalender2025 = {
 
   ],
   Juli: [
-    { id: 5, tanggal: 26, hari: "Sabtu", kategori: "Concert", waktu: "19:00", nama: "JKT48 Special Concert FULL HOUSE | JKT48 & Friends on One Stage" }
+    { id: 5, tanggal: 26, hari: "Sabtu", kategori: "Concert", waktu: "19:00", nama: "JKT48 Special Concert FULL HOUSE | JKT48 & Friends on One Stage" },
   ],
   Agustus: [
     { id: 2, tanggal: 31, hari: "Minggu", kategori: "Concert", waktu: "14:00", nama: "Sunset dikebun" },
-    { id: 3, tanggal: 10, hari: "Minggu", kategori: "Concert", waktu: "15:00", nama: "The Sounds Project" }
+    { id: 3, tanggal: 10, hari: "Minggu", kategori: "Concert", waktu: "15:00", nama: "The Sounds Project" },
   ],
   September: [
 
