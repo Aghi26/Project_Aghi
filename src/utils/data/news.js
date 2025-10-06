@@ -48,5 +48,13 @@ export const news = [
     date: "12 Januari 2025",
     konten: "Penampilan Theater dari Mahasiswa.",
     gambar: assets.berita6
+  },
+  {
+    id: 7,
+    category: "Concert",
+    title: "JKT48 Special Concert FULL HOUSE | JKT48 & Friends on One Stage",
+    date: "26 Juli 2025",
+    konten: "Puncaknya, JKT48 akan menggelar konser spektakuler bertajuk JKT48 SPECIAL CONCERT FULL HOUSE di Istora Senayan pada 26 Juli 2025! Di konser ini, kita akan merayakan momen hadirnya Original Setlist dengan membawakan beberapa lagu dari Original Setlist dan penampilan spesial dari para composer.",
+    gambar: assets.berita5
   }
 ];
