@@ -1,5 +1,5 @@
 const galeriImages = [
-  { id: 1, url: 'C:\Users\aghis\Downloads\jakarta-main\jakarta-main\public\assets/bnw.jpg', alt: 'Landscape 1' },
+  { id: 1, url: 'assets/bnw.jpg', alt: 'Landscape 1' },
   { id: 2, url: 'https://www.tagar.id/Asset/uploads2019/1575038520042-baskara-putra-alias-hindia.jpg', alt: 'Portrait 1' },
   { id: 3, url: 'https://placehold.co/800x500', alt: 'Landscape 2' },
   { id: 4, url: 'https://placehold.co/500x700', alt: 'Portrait 2' },
