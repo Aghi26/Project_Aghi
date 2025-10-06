@@ -1,10 +1,10 @@
 const galeriImages = [
-  { id: 1, url: 'assets/bnw.jpg', alt: 'Landscape 1' },
-  { id: 2, url: 'assets/berita6.jpg', alt: 'Portrait 1' },
-  { id: 3, url: 'assets/nadin.jpg', alt: 'Landscape 2' },
-  { id: 4, url: 'assets/rf.jpg', alt: 'Portrait 2' },
-  { id: 5, url: 'https://placehold.co/700x400', alt: 'Landscape 3' },
-  { id: 6, url: 'https://placehold.co/500x500', alt: 'Square' }
+  { id: 1, url: 'assets/bnw.jpg', alt: 'FULLHOUSE JKT48' },
+  { id: 2, url: 'assets/berita6.jpg', alt: 'Reality Club 212' },
+  { id: 3, url: 'assets/nadin.jpg', alt: 'Nadin Amizah' },
+  { id: 4, url: 'assets/rf.jpg', alt: 'Rizky Febian' },
+  { id: 5, url: 'assets/hindia.jpg', alt: 'Hindia Concert' },
+  { id: 6, url: 'assets/ketawa.jpg', alt: 'Open Mic Ketawa Comedy Club' }
 ]
 
 export default galeriImages
