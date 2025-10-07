@@ -15,7 +15,7 @@ export const news = [
     title: 'JKT48 & AKB48 Personal Meet And Greet Festival',
     date: "25 Oktober 2025",
     konten: "Untuk ikut merayakan ulang tahun AKB48 yang ke-20, JKT48 akan mengadakan Personal Meet and Greet Festival bertajuk “SISTER REUNION”, spesial bersama AKB48!",
-    gambar: assets.jkb
+    gambar: assets.berita2
   },
   {
     id: 3,
