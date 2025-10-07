@@ -36,6 +36,8 @@ export const kalender2025 = {
 
   ],
   November: [
+    { id: 1, tanggal: 01, hari: "Sabtu", kategori: "Concert", waktu: "19:00", nama: "BLACKPINK WORLD TOUR" },
+    { id: 1, tanggal: 02, hari: "Minggu", kategori: "Concert", waktu: "19:00", nama: "BLACKPINK WORLD TOUR" },
 
   ],
   Desember: [
