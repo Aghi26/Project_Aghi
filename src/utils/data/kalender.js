@@ -17,7 +17,7 @@ export const kalender2025 = {
 
   ],
   Juni: [
-    { id: 1, tanggal: 7, hari: "Sabtu", kategori: "Concert", waktu: "20.00", nama: "Jakarta, 25 on Blank Canvas" },
+    { tanggal: 7, hari: "Sabtu", kategori: "Concert", waktu: "20.00", nama: "Jakarta, 25 on Blank Canvas" },
 
   ],
   Juli: [
