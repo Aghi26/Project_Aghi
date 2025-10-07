@@ -12,10 +12,10 @@ export const news = [
   {
     id: 2,
     category: "Concert",
-    title: 'Sunset dikebun',
-    date: "31 Agustus 2025",
-    konten: "Sunset di Kebun menggabungkan musik dan keindahan alam dari Kebun Raya. Sunset di kebun menawarkan pengalaman menikmati musik yang berbeda di mana penonton bisa menyatu dengan alam, menikmati musik lebih dekat dengan musisi, dan menikmati duduk dihamparan rumput yang luas.",
-    gambar: assets.berita2
+    title: 'JKT48 & AKB48 Personal Meet And Greet Festival',
+    date: "25 Oktober 2025",
+    konten: "Untuk ikut merayakan ulang tahun AKB48 yang ke-20, JKT48 akan mengadakan Personal Meet and Greet Festival bertajuk “SISTER REUNION”, spesial bersama AKB48!",
+    gambar: assets.jkb
   },
   {
     id: 3,
