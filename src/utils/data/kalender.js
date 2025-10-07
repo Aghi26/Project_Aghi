@@ -32,6 +32,7 @@ export const kalender2025 = {
   ],
   Oktober: [
     { id: 4, tanggal: 3, hari: "Jumat", kategori: "Comedy", waktu: "19:30", nama: "OPEN MIC COBA KETAWA 03 OCT 2025" },
+    { id: 2, tanggal: 25, hari: "Sabtu", kategori: "Concert", waktu: "11:00", nama: "JKT48 & AKB48 Personal Meet And Greet Festival" },
 
   ],
   November: [
