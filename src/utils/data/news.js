@@ -48,5 +48,6 @@ export const news = [
     date: "12 Januari 2025",
     konten: "Penampilan Theater dari Mahasiswa.",
     gambar: assets.berita6
+    link: "https://www.instagram.com/antonym.theatre/"
   }
 ];
