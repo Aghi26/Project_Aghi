@@ -36,9 +36,9 @@ export const news = [
   {
     id: 5,
     category: "Concert",
-    title: "JKT48 Special Concert FULL HOUSE | JKT48 & Friends on One Stage",
-    date: "26 Juli 2025",
-    konten: "Puncaknya, JKT48 akan menggelar konser spektakuler bertajuk JKT48 SPECIAL CONCERT FULL HOUSE di Istora Senayan pada 26 Juli 2025! Di konser ini, kita akan merayakan momen hadirnya Original Setlist dengan membawakan beberapa lagu dari Original Setlist dan penampilan spesial dari para composer.",
+    title: "Jakarta, 25 on Blank Canvas",
+    date: "7 Juni 2025",
+    konten: "Setelah merilis mixtape bertajuk Doves, 25 on Blank Canvas dua pekan lalu, Hindia siap melanjutkan rangkaian konser peluncurannya di Jakarta pada tanggal 7 Juni 2025. Bertempat di Tennis Indoor Senayan, konser bertajuk Jakarta, 25 on Blank Canvas ini akan menjadi penampilan kedua Hindia dan Blue Valley Radio (BVR) membawakan setlist terbaru dari mixtape tersebut secara langsung.",
     gambar: assets.berita5
   },
   {
