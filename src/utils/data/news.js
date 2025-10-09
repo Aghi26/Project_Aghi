@@ -36,9 +36,9 @@ export const news = [
   {
     id: 5,
     category: "Concert",
-    title: "Jakarta, 25 on Blank Canvas",
-    date: "7 Juni 2025",
-    konten: "Setelah merilis mixtape bertajuk Doves, 25 on Blank Canvas dua pekan lalu, Hindia siap melanjutkan rangkaian konser peluncurannya di Jakarta pada tanggal 7 Juni 2025. Bertempat di Tennis Indoor Senayan, konser bertajuk Jakarta, 25 on Blank Canvas ini akan menjadi penampilan kedua Hindia dan Blue Valley Radio (BVR) membawakan setlist terbaru dari mixtape tersebut secara langsung.",
+    title: "belanegarafestival",
+    date: "16 November 2025",
+    konten: "Siapkan outfit terbaik dan suara paling lantang, Depok bakal goyah karena Belanegara Festival datang!Bareng Tenxi, Lomba Sihir, Hivi!, dan For Revenge,yang nggak datang bakal menyesal seumur lagu!",
     gambar: assets.berita5
   },
   {
@@ -48,6 +48,5 @@ export const news = [
     date: "12 Januari 2025",
     konten: "Penampilan Theater dari Mahasiswa.",
     gambar: assets.berita6
-    link: "https://www.instagram.com/antonym.theatre/"
   }
 ];
