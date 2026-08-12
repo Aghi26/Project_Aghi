@@ -126,16 +126,16 @@ export default function Kalender() {
       {/* Hero Banner */}
       <div className="bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 py-16 px-4 relative overflow-hidden">
         <div className="absolute inset-0 opacity-10">
-          <div className="absolute top-10 left-10 text-8xl">📅</div>
-          <div className="absolute bottom-5 right-20 text-6xl">📅</div>
-          <div className="absolute top-5 right-10 text-4xl">📅</div>
+          <div className="absolute top-10 left-10 text-8xl"></div>
+          <div className="absolute bottom-5 right-20 text-6xl"></div>
+          <div className="absolute top-5 right-10 text-4xl"></div>
         </div>
         <div className="max-w-4xl mx-auto text-center relative z-10">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">
             📅 Jadwal Event
           </h1>
           <p className="text-lg md:text-xl text-blue-100">
-            Lihat jadwal lengkap event-event seru di Jakarta
+            Lihat jadwal lengkap event-event seru
           </p>
         </div>
       </div>
