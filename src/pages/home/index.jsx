@@ -94,7 +94,7 @@ export default function HomePage() {
         <div className="max-w-4xl mx-auto text-center relative z-10">
           {/* Badge */}
           <div className="inline-flex items-center gap-2 px-4 py-1.5 bg-white/15 backdrop-blur-md rounded-full text-sm font-medium border border-white/20 mb-6">
-            <span>🎪</span>
+            <span></span>
             <span>Portal Event Resmi Jakarta</span>
           </div>
 
